@@ -1,29 +1,29 @@
-Source,Calories_100g,Protein_100g
-ground beef,193,26
-steak,212,29
-chicken breast,165,31
-chicken thigh,179,25
-pork chop,162,30
-pork tenderloin,143,26
-chicken wing,254,24
-tuna,184,30
-salmon,156,26
-shrimp,99,24
-egg,155,13
-almonds,579,21
-peanut butter,598,22
-sunflower seeds,584,21
-black beans,91,6
-chickpeas,139,7
-lentils,116,9
-baked beans,105,5
-firm tofu,78,9
-tempeh,195,20
-soybeans,141,12
-cottage cheese,98,11
-greek yogurt,97,9
-quinoa,120,4
-couscous,112,4
-parmesan,420,28
-edamame,121,12
-cheddar,404,23
+Food,Calories_100g,Protein_100g,Type
+ground beef,193,26,meat
+steak,212,29,meat
+chicken breast,165,31,meat
+chicken thigh,179,25,meat
+pork chop,162,30,meat
+pork tenderloin,143,26,meat
+chicken wing,254,24,meat
+tuna,184,30,seafood
+salmon,156,26,seafood
+shrimp,99,24,seafood
+egg,155,13,animal product
+almonds,579,21,plant based
+peanut butter,598,22,plant based
+sunflower seeds,584,21,plant based
+black beans,91,6,plant based
+chickpeas,139,7,plant based
+lentils,116,9,plant based
+baked beans,105,5,plant based
+firm tofu,78,9,plant based
+tempeh,195,20,plant based
+soybeans,141,12,plant based
+cottage cheese,98,11,animal product
+greek yogurt,97,9,animal product
+quinoa,120,4,plant based
+couscous,112,4,plant based
+parmesan,420,28,animal product
+edamame,121,12,plant based
+cheddar,404,23,animal product
